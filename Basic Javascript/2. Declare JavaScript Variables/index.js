@@ -1,0 +1,2 @@
+// variable declaration
+var myName;
